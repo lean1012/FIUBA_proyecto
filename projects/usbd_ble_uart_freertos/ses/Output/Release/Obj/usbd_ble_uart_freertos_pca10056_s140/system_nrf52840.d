@@ -1,0 +1,26 @@
+Output/Release/Obj/usbd_ble_uart_freertos_pca10056_s140/system_nrf52840.o: \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/system_nrf52840.c \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/system_nrf52.c \
+ /usr/share/segger_embedded_studio_for_arm_5.70a/include/stdint.h \
+ /usr/share/segger_embedded_studio_for_arm_5.70a/include/stdbool.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/nrf.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/nrf52840.h \
+ ../../../nrf_SDK/components/toolchain/cmsis/include/core_cm4.h \
+ ../../../nrf_SDK/components/toolchain/cmsis/include/cmsis_version.h \
+ ../../../nrf_SDK/components/toolchain/cmsis/include/cmsis_compiler.h \
+ ../../../nrf_SDK/components/toolchain/cmsis/include/cmsis_gcc.h \
+ ../../../nrf_SDK/components/toolchain/cmsis/include/mpu_armv7.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/system_nrf52840.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/nrf52840_bitfields.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/nrf51_to_nrf52840.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/nrf52_to_nrf52840.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/compiler_abstraction.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/nrf_peripherals.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/nrf52840_peripherals.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/nrf_erratas.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/nrf51_erratas.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/nrf52_erratas.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/nrf53_erratas.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/nrf91_erratas.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/system_nrf52.h \
+ /home/leandro/Desktop/FIUBA/Proyecto/nrf_SDK/modules/nrfx/mdk/system_nrf52_approtect.h

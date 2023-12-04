@@ -1,0 +1,84 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="744" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="../../../main.c" useHWbreakpoint="false"/>
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="usbd_ble_uart_freertos_pca10056_s140" radix="16" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="usbd_ble_uart_freertos_pca10056_s140" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="usbd_ble_uart_freertos_pca10056_s140" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="usbd_ble_uart_freertos_pca10056_s140" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="usbd_ble_uart_freertos_pca10056_s140"/>
+  <ProjectSessionItem path="usbd_ble_uart_freertos_pca10056_s140;usbd_ble_uart_freertos_pca10056_s140"/>
+  <ProjectSessionItem path="usbd_ble_uart_freertos_pca10056_s140;usbd_ble_uart_freertos_pca10056_s140;Application"/>
+  <ProjectSessionItem path="usbd_ble_uart_freertos_pca10056_s140;usbd_ble_uart_freertos_pca10056_s140;Board Definition"/>
+  <ProjectSessionItem path="usbd_ble_uart_freertos_pca10056_s140;usbd_ble_uart_freertos_pca10056_s140;nRF_Drivers"/>
+  <ProjectSessionItem path="usbd_ble_uart_freertos_pca10056_s140;usbd_ble_uart_freertos_pca10056_s140;nRF_Libraries"/>
+  <ProjectSessionItem path="usbd_ble_uart_freertos_pca10056_s140;usbd_ble_uart_freertos_pca10056_s140;src"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal;TWI0/TASKS_STARTRX;TWI0/TASKS_STARTTX;TWI0/TASKS_STOP;TWI0/TASKS_SUSPEND;TWI0/TASKS_RESUME;TWI0/EVENTS_STOPPED;TWI0/EVENTS_RXDREADY;TWI0/EVENTS_TXDSENT;TWI0/EVENTS_ERROR;TWI0/EVENTS_BB;TWI0/EVENTS_SUSPENDED;TWI0/SHORTS;TWI0/INTENSET;TWI0/INTENCLR;TWI0/ERRORSRC;TWI0/ENABLE;TWI0/RXD;TWI0/TXD;TWI0/FREQUENCY;TWI0/ADDRESS;TWI0/PSEL.SCL;TWI0/PSEL.SDA;TWI1/TASKS_STARTRX;TWI1/TASKS_STARTTX;TWI1/TASKS_STOP;TWI1/TASKS_SUSPEND;TWI1/TASKS_RESUME;TWI1/EVENTS_STOPPED;TWI1/EVENTS_RXDREADY;TWI1/EVENTS_TXDSENT;TWI1/EVENTS_ERROR;TWI1/EVENTS_BB;TWI1/EVENTS_SUSPENDED;TWI1/SHORTS;TWI1/INTENSET;TWI1/INTENCLR;TWI1/ERRORSRC;TWI1/ENABLE;TWI1/RXD;TWI1/TXD;TWI1/FREQUENCY;TWI1/ADDRESS;TWI1/PSEL.SCL;TWI1/PSEL.SDA;P0/OUT;P0/OUTSET;P0/OUTCLR;P0/IN;P0/DIR;P0/DIRSET;P0/DIRCLR;P0/LATCH;P0/DETECTMODE;P0/PIN_CNF[0];P0/PIN_CNF[1];P0/PIN_CNF[2];P0/PIN_CNF[3];P0/PIN_CNF[4];P0/PIN_CNF[5];P0/PIN_CNF[6];P0/PIN_CNF[7];P0/PIN_CNF[8];P0/PIN_CNF[9];P0/PIN_CNF[10];P0/PIN_CNF[11];P0/PIN_CNF[12];P0/PIN_CNF[13];P0/PIN_CNF[14];P0/PIN_CNF[15];P0/PIN_CNF[16];P0/PIN_CNF[17];P0/PIN_CNF[18];P0/PIN_CNF[19];P0/PIN_CNF[20];P0/PIN_CNF[21];P0/PIN_CNF[22];P0/PIN_CNF[23];P0/PIN_CNF[24];P0/PIN_CNF[25];P0/PIN_CNF[26];P0/PIN_CNF[27];P0/PIN_CNF[28];P0/PIN_CNF[29];P0/PIN_CNF[30];P0/PIN_CNF[31]" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context;CPU;TWI0;TWI1;TWI1/RXD;TWI1/ADDRESS;TWI1/PSEL.SCL;TWI1/PSEL.SDA;P0;P0/IN;P0/PIN_CNF[6];P0/PIN_CNF[8]" name="usbd_ble_uart_freertos_pca10056_s140" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="usbd_ble_uart_freertos_pca10056_s140" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="usbd_ble_uart_freertos_pca10056_s140" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="usbd_ble_uart_freertos_pca10056_s140" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Twice a Second">
+   <Watchpoint expression="nus_connected" name="nus_connected" radix="-1" linenumber="187" filename="../../../main.c"/>
+   <Watchpoint expression="temph" name="temph" radix="10" linenumber="594" filename="../../../main.c"/>
+   <Watchpoint expression="templ" name="templ" radix="10" linenumber="595" filename="../../../main.c"/>
+   <Watchpoint expression="humh" name="humh" radix="10" linenumber="596" filename="../../../main.c"/>
+   <Watchpoint expression="m_twi" name="m_twi" radix="-1" linenumber="645" filename="../../../main.c"/>
+   <Watchpoint expression="i2c_sht4x" name="i2c_sht4x" radix="-1" linenumber="14" filename="../../../src/sht4x_port.c"/>
+   <Watchpoint expression="err" name="err" radix="-1" linenumber="675" filename="../../../main.c"/>
+   <Watchpoint expression="p_config" name="p_config" radix="-1" linenumber="216" filename="../../../../../../modules/nrfx/drivers/src/nrfx_twi.c"/>
+   <Watchpoint expression="reg" name="reg" radix="16" linenumber="541" filename="../../../../../../modules/nrfx/hal/nrf_gpio.h"/>
+   <Watchpoint expression="buffer" name="buffer" radix="-1" linenumber="738" filename="../../../main.c"/>
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="683" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="671" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="216" useTextEdit="1" openedFrom="/home/leandro/Desktop/nrf_sdk/nrf5_sdk_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/integration/nrfx/legacy/nrf_drv_twi.h" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/src/nrfx_twi.c" selected="0" top="199" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="551" useTextEdit="1" openedFrom="/home/leandro/Desktop/nrf_sdk/nrf5_sdk_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/peripheral/usbd_ble_uart_freertos/main.c" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_twi.h" selected="0" top="534" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="25" y="7818" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="7796" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="540" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/hal/nrf_gpio.h" selected="0" top="523" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="79" useTextEdit="1" openedFrom="/home/leandro/Desktop/nrf_sdk/nrf5_sdk_17.1.0_ddde560/nRF5_SDK_17.1.0_ddde560/examples/peripheral/usbd_ble_uart_freertos/main.c" useBinaryEdit="0" left="0" path="../../../src/sht4x.c" selected="0" top="62" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="25" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../src/sht4x_port.c" selected="0" top="0" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="usbd_ble_uart_freertos_pca10056_s140" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
